@@ -39,6 +39,12 @@ This task was completed as part of the **Data Analytics Internship at SkillCraft
 
 ---
 
+### 📓 Project Notebook
+You can view the full code execution and visualizations directly in the repository:
+👉 [View Traffic Accident Analysis Notebook](./SCT Task-4.ipynb)
+
+---
+
 ## 📁 Repository Structure
 ```text
 ├── SCT Task-4.ipynb                          # Main Google Colab / Jupyter Notebook
@@ -46,6 +52,3 @@ This task was completed as part of the **Data Analytics Internship at SkillCraft
 ├── SCT Task-4 outputs                        # output files
 └── assets/                                   # Visualizations and Output Charts
 
-### 📓 Project Notebook
-You can view the full code execution and visualizations directly in the repository:
-👉 [View Traffic Accident Analysis Notebook](./SCT Task-4.ipynb)
