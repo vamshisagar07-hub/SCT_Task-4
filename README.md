@@ -45,3 +45,7 @@ This task was completed as part of the **Data Analytics Internship at SkillCraft
 ├── README.md                                 # Project Documentation
 ├── SCT Task-4 outputs                        # output files
 └── assets/                                   # Visualizations and Output Charts
+
+### 📓 Project Notebook
+You can view the full code execution and visualizations directly in the repository:
+👉 [View Traffic Accident Analysis Notebook](./SCT Task-4.ipynb)
